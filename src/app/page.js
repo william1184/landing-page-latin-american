@@ -59,7 +59,7 @@ export default function Home() {
           {/* Call to Action */}
           <div className="text-center mt-10">
             <a 
-              href="https://pancakeswap.finance/?outputCurrency=0x929c370a2407e7789000391db1a6439572081c10" 
+              href="https://springboard.pancakeswap.finance/bsc/token/0xbd366e3805ff2e52c4c1f43835a3ebc7f92786cf" 
               target="_blank" 
               rel="noopener noreferrer"
             >
